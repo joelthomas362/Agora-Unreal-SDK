@@ -21,6 +21,12 @@ See [C++ Guide](C++\ Approach/GUIDE.md) and [Blueprints Guide](Blueprints\ Appro
 Agora plugin is implemented as separate module. Download the project with command `git clone --recursive todo::link_to_the_repo`,
 or [download the plugin here](https://gitlab.nixdev.co/agora.io/agora.io-ue-plugin) and add it's contents to Plugins/AgoraPlugin for each project.
 
+## Getting Started
+The Agora Plugin must be downloaded, unzipped, and placed into the empty "Plugins" folder of your project's directory. 
+
+[You can find the .zip file here](https://drive.google.com/drive/folders/1AGYnr1H4U7V3-5Gb6gsaBru0IQjVbtWa?usp=sharing)
+Drop the entire AgoraPlugin folder inside of the Plugins folder, and you are good to go!
+
 ## Building and running the App
 
 Open AgoraVideoCall.uproject with Unreal Editor( version no less than 4.23 ).

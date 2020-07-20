@@ -24,7 +24,7 @@ or [download the plugin here](https://gitlab.nixdev.co/agora.io/agora.io-ue-plug
 ## Getting Started
 The Agora Plugin must be downloaded, unzipped, and placed into the empty "Plugins" folder of your project's directory. 
 
-[You can find the .zip file here](https://drive.google.com/drive/folders/1AGYnr1H4U7V3-5Gb6gsaBru0IQjVbtWa?usp=sharing)
+[You can find the .zip file here](https://drive.google.com/file/d/1waEe7Hsh6Q-Fh4DhB8DbO3-EBeZ8lsSt/view?usp=sharing)
 
 Drop the entire AgoraPlugin folder inside of the Plugins folder, and you are good to go!
 
